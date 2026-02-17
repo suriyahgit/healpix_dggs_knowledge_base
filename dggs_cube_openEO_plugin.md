@@ -1,4 +1,4 @@
-### DGGS Integration via Plugin Architecture
+# DGGS Integration via Plugin Architecture
 
 A new **DGGSCube** data model is proposed to be integrated into `openeo-processes-dask` through a **separate plugin** (`openeo_dggs_plugin`), avoiding direct refactoring of the core backend.
 
